@@ -1,1 +1,1 @@
-from word_representation import *
+from .word_representation import *
